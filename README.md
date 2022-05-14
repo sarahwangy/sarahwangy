@@ -1,6 +1,8 @@
 
 
-![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR32rROtaJRrXuQMtgUD42IyJ9SdZ1C8w3eg&usqp=CAU"Header")
+<!-- ![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR32rROtaJRrXuQMtgUD42IyJ9SdZ1C8w3eg&usqp=CAU){ width=50% } -->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR32rROtaJRrXuQMtgUD42IyJ9SdZ1C8w3eg&usqp=CAU" width="800" height="200">
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
