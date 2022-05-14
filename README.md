@@ -1,7 +1,7 @@
 
 
 <!-- ![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR32rROtaJRrXuQMtgUD42IyJ9SdZ1C8w3eg&usqp=CAU){ width=50% } -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR32rROtaJRrXuQMtgUD42IyJ9SdZ1C8w3eg&usqp=CAU" width="800" height="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR32rROtaJRrXuQMtgUD42IyJ9SdZ1C8w3eg&usqp=CAU" width="850" height="150">
 
 ### Hi there 👋
 
