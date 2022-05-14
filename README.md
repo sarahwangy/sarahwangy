@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python, C#, Javasript and React.
+- 🔭 I’m currently working on **Python, C#, Javasript and React**.
 - 🌱 I’m currently learning everything I can find.
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on building React projects.
 
 - 📫 How to reach me: 
 - 😄 Pronouns: She/Her
