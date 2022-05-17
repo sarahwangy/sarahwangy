@@ -1,4 +1,9 @@
 
+<!-- ![logo-3](https://user-images.githubusercontent.com/64293182/168727758-38691b7d-a4cb-48eb-972d-3b2aac5a8e2d.png) -->
+<img src="https://user-images.githubusercontent.com/64293182/168727758-38691b7d-a4cb-48eb-972d-3b2aac5a8e2d.png" width="120px"><img src="https://user-images.githubusercontent.com/64293182/168728228-e4b491f3-ca4a-4fc7-ae29-d7e6db1a14c6.png" width="150px"><img src="https://user-images.githubusercontent.com/64293182/168728385-81627654-6df6-46f0-8309-8876ffe561d9.png"  width="150px">
+
+
+
 
 <!-- ![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR32rROtaJRrXuQMtgUD42IyJ9SdZ1C8w3eg&usqp=CAU){ width=50% } -->
 <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR32rROtaJRrXuQMtgUD42IyJ9SdZ1C8w3eg&usqp=CAU" width="850" height="15"> -->
@@ -17,6 +22,16 @@ Here are some ideas to get you started:
 
 ## ✍️ Blog & Writing
 - Apart from coding, I also like to write blog articles.
+<!-- Actual text -->
+
+- You can find me on [![Twitter][1.2]][1]
+<!-- , or on [![LinkedIn][3.2]][3]. -->
+<!-- Icons -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/happySarahss
 
 
 ### Languages
@@ -52,4 +67,7 @@ Here are some ideas to get you started:
 
 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahwangy&theme=cobalt) -->
+
+
+
 
