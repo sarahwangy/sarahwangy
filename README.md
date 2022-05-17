@@ -42,12 +42,13 @@ Here are some ideas to get you started:
 ### Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## My Github Stats 📊
+## My Github Stats 
 
-![Profile views](https://gpvc.arturio.dev/sarahwangy)
+![Profile views](https://gpvc.arturio.dev/sarahwangy) 📊
 
 
- ![](https://github-readme-stats.vercel.app/api?username=sarahwangy&theme=cobalt&show_icons=true&count_private=true)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahwangy&theme=cobalt" height="194px">
+<!--  ![](https://github-readme-stats.vercel.app/api?username=sarahwangy&theme=cobalt&show_icons=true&count_private=true) -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahwangy&theme=cobalt" height="194px">
 
 
 <!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahwangy&theme=cobalt) -->
