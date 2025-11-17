@@ -14,7 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Frontend: Next.js, Javasript and React, Backend:Golang, Cloud: AWS **.<img src="https://media1.giphy.com/media/doGFPZKZBRWta/200w.webp?cid=ecf05e47gy3emj38iakav7zrguhfagu7wxlqy897qu2jat5p&rid=200w.webp&ct=g" width="20px">
+- 🔭 I’m currently working on **Frontend: Next.js, Javasript and React, Backend:Golang, Cloud: AWS**.<img src="https://media1.giphy.com/media/doGFPZKZBRWta/200w.webp?cid=ecf05e47gy3emj38iakav7zrguhfagu7wxlqy897qu2jat5p&rid=200w.webp&ct=g" width="20px">
 
 - 🌱 I’m currently learning everything I can find.
 - 👯 I’m looking to collaborate on building React projects.
