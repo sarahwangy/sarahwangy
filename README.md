@@ -16,13 +16,15 @@ Based in Melbourne, Australia.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Lovely Shelf](repo链接) | AI book tracker — scan covers with Claude Vision, save quotes to Notion | Next.js · Claude Vision · Notion |
-| [HandLog](repo链接) | Voice-to-text therapy logger — speak notes, AI transcribes and summarises | Next.js · Whisper API · DALL-E · Claude |
-| [Pinfarer](repo链接) | AI travel planner with interactive map — pin destinations, get recommendations | Next.js · Claude · Supabase · Mapbox |
-| [WatchDNA](repo链接) | Analyse your YouTube watch history with AI insights | Next.js · Claude Haiku · Prisma |
-| [AU Council Explorer](repo链接) | Explore Australian council data on an interactive map | Next.js · Prisma · Mapbox |
-| [Linknest](repo链接) | AI bookmark manager — search saved links by meaning, not just keywords | Next.js · pgvector · Claude API |
-| [Knowho](repo链接) | AI-powered contact and knowledge management tool | Next.js · Claude Haiku · Whisper API |
+| [Lovely Shelf - Library Books](https://github.com/sarahwangy/lovely-shelf) | AI book tracker — scan covers with Claude Vision, save quotes to Notion | Next.js · Claude Vision · Notion |
+| [HandLog - Lovely Journal Review](https://github.com/sarahwangy/HandLog) | Voice-to-text therapy logger — speak notes, AI transcribes and summarises | Next.js · Whisper API · DALL-E · Claude |
+| [Pinfarer - Lovely Travel Dreams](https://github.com/sarahwangy/pinFarer) | AI travel planner with interactive map — pin destinations, get recommendations | Next.js · Claude · Supabase · Mapbox |
+| [WatchDNA - Lovely Youtube Analysis](https://github.com/sarahwangy/WatchDNA) | Analyse your YouTube watch history with AI insights | Next.js · Claude Haiku · Prisma |
+| [AU Council Explorer - Lovely Info For New Migrants](https://github.com/sarahwangy/AU-council-explore) | Explore Australian council data on an interactive map | Next.js · Prisma · Mapbox |
+| [Linknest - Lovely Bookmarks](https://github.com/sarahwangy/linkNest-bookMark) | AI bookmark manager — search saved links by meaning, not just keywords | Next.js · pgvector · Claude API |
+| [Knowho - Lovely People You Meet](https://github.com/sarahwangy/knowho) | AI-powered contact and knowledge management tool | Next.js · Claude Haiku · Whisper API |
+| [MindCare - Lovely Mental Health Log](https://github.com/sarahwangy/mental-health-app-with-test-ai-skills) | Mental health app with mood tracking, journaling, and meditation — full-stack with Go backend | Next.js · Golang · MySQL · JWT |
+
 
 ## 🛠 Tech Stack
 **Frontend:** React · Next.js · TypeScript · Tailwind
